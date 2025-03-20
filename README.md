@@ -47,13 +47,6 @@ This project explores key **20th-century historical events** using **Text Mining
 🔹 Apply **Sentiment Analysis** to determine **how countries were referenced** (positive/negative tone).  
 🔹 Enhance network graphs with **weighted edges** based on co-occurrence frequency.  
 
-## 🤝 Contributing
-Feel free to **clone the repository**, **review the notebooks**, and **suggest improvements**! If you'd like to collaborate, open an **Issue or Pull Request**.
 
-## 🔗 Repository
-[GitHub: 20th Century Events Analysis](https://github.com/arooj-hub/20th-century)  
 
----
-📢 **Author:** Arooj  
-📧 **Contact:** [Your Email or GitHub Profile]  
-🚀 **Project Completed:** March 2025
+
